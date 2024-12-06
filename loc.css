@@ -3,6 +3,11 @@ h1
     background-color: gray;
 }
 
+h1 {
+    font-size: 70px;
+    color: green;
+  }
+  
 p {
     color: red;
 }
